@@ -5,6 +5,7 @@ p {
 	margin: 0;
 	font-size: 150%;
 	padding: 10px;
+	color: purple;
 	line-height: 30px;
 	  border-top-style: hidden;
 	  border-bottom-style: dashed;
@@ -15,15 +16,16 @@ h1 {
 	font-weight: bold;
 	text-align: center;
 	background-color: green;
-	width: 1330px;
+	width: 1350px;
 	color: black;
+	
 }
 h2 {
 	
 	font-size: 150%;
 	font-weight: 500;
 	background-color: lightgreen;
-	width: 1330px;
+	width: 1350px;
 	text-align: center;
 	}
 ul {
@@ -32,7 +34,9 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	background-color: RoyalBlue;
+	
 }
+
 ol li {
 	text-decoration: underline;
 	font-size: 140%;
@@ -42,6 +46,8 @@ ul li {
 	text-decoration: underline;
 	margin-left: 2rem;
 	float: left;
+	text-align: center;
+	
 	}
 
 li a {
